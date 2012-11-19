@@ -1,4 +1,4 @@
 Dewakoplax
 ==========
 
-Dewakoplax.cpm
+Dewakoplax.com
